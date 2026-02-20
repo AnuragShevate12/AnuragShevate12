@@ -2,12 +2,12 @@ Tech has always had this pull on me — that blend of logic and creativity that 
 # 👋 Welcome to My GitHub Profile
 
 ### 🔹 About Me  
-I’m an **Electronics and Telecommunication Engineer** passionate about **embedded systems, networking, and real-time hardware–software design**.  
+I’m an **Electronics and Telecommunication Engineer** passionate about **embedded systems, networking, and ethical hacking**.  
 
 Skilled in **C, Embedded C, MATLAB, and Linux**, I work on:  
 - **ARM-based embedded projects**  
 - **Network-driven automation systems**  
-- **MATLAB-based simulations** for signal processing and system modeling  
+- **Pententration testing**   
 
 I enjoy building efficient, scalable, and practical solutions — from low-level firmware to connected network applications.  
 Always exploring new technologies, I aim to contribute innovative ideas and open-source projects that bridge **hardware and communication systems**.  
@@ -42,9 +42,9 @@ Exploring advanced ARM architectures, optimizing embedded code, and improving ne
 ---
 
 ### 📫 Contact Details
-- **Email:** your.email@example.com  
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- **Portfolio / Website:** [yourwebsite.com](https://yourwebsite.com)  
+- **Email:** anuragshevate7@gmail.com
+- **Phone:** (+91)7841030511
+ 
 
-> _“Code. Connect. Create. Contribute.”_ 🚀
+
 
