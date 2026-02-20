@@ -18,7 +18,10 @@ Always exploring new technologies, I aim to contribute innovative ideas and open
 - Embedded Systems (ARM, AVR, Microcontrollers)  
 - Networking & IoT Development  
 - MATLAB for Simulation & Analysis  
-- Linux Systems & Scripting  
+- Linux Systems & Scripting
+- ROUTING
+- SWITCHING
+- REVERSE ENGINEERING   
 - Hardware–Software Integration
 - Python
 - C,C++ 
